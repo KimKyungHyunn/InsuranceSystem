@@ -13,7 +13,7 @@
 [함정원](https://github.com/HamJeongWon) <br>
 
 ## 사용 스택
-**java, spring, MySql, jdbc, jsp, html, css, javascript** <br>
+**java, spring, MySql, MyBatis, jsp, html, css, javascript** <br>
 
 ## 시스템 설명
 1. 보험의 종류는 화재, 실비, 자동차 보험으로 나뉘며 보험사는 보험 설계가 가능하다.<br><br>
